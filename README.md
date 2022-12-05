@@ -17,3 +17,7 @@ For the LSTM-NARX:
   The entire data in drive has been shared: https://drive.google.com/drive/folders/1CkNyGw17D2Nct8l4alMKFijJYdwMBquv?usp=sharing 
   
   
+For CNN Models:
+- Download the Numpy form of the datasets from this repo and upload it to your google drive. Make sure the dataset directories match the ones in your drive.
+- You may also use the following colab noteboook and make a copy for convenience (only available to Santa Clara University access):
+https://colab.research.google.com/drive/1vPl8tN-wGCE0IaahZLfhWbayi3syImZz?usp=sharing
