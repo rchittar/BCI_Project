@@ -14,6 +14,6 @@ For the LSTM-NARX:
   
   3.https://colab.research.google.com/drive/1872T68v1mfqTej0GV5MRU_PKj7m5oxWa (LSTM-NARX code)
   
-  The entire data in drive has been shared. 
+  The entire data in drive has been shared: https://drive.google.com/drive/folders/1CkNyGw17D2Nct8l4alMKFijJYdwMBquv?usp=sharing 
   
   
