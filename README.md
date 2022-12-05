@@ -7,8 +7,11 @@ For the LSTM-NARX:
 
 - If the Feature Prediction code does not work, or the dataset has not been uploaded yet, please use the following google colab notebooks:
   1. https://colab.research.google.com/drive/1DSX_Iu5jFhtYGyX78WzZLJLMLbMbgmS7#scrollTo=wTUVjJyBlNRv (Data Pre-processing Code)
+  
   2.https://colab.research.google.com/drive/1Whpq4g0Xwp5mY-jf4cqh81a27sTch-Uy#scrollTo=bdjz9LR67EuK (Autoencoder Code)
+  
   3.https://colab.research.google.com/drive/1872T68v1mfqTej0GV5MRU_PKj7m5oxWa (LSTM-NARX code)
+  
   The entire data in drive has been shared. 
   
   
