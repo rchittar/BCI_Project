@@ -21,3 +21,4 @@ For CNN Models:
 - Download the Numpy form of the datasets from this repo and upload it to your google drive. Make sure the dataset directories match the ones in your drive.
 - You may also use the following colab noteboook and make a copy for convenience (only available to Santa Clara University access):
 https://colab.research.google.com/drive/1vPl8tN-wGCE0IaahZLfhWbayi3syImZz?usp=sharing
+- Feel free to skip the data processing parts and jump right into just a few cells before the Keras Approach section (where it asks you to load the numpy data as train, val, test).
