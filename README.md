@@ -1,6 +1,8 @@
 # BCI_Project
 This github repository is the code for the LSTM-NARX and CNN models.
 
+The research report for this project can be accessed here: https://drive.google.com/file/d/1BM3rzELo5quXeN_vIVrtXkX6DX_sJZC9/view?usp=share_link
+
 For the LSTM-NARX:
 - The only runnable code if using the git page is the Feature Prediction(LSTM-NARX) notebook.
   It will run the train and test functions(lower most driver codes) for 300 timesteps of the power spectral entropy train/val/test datasets using a pre-trained PSE autoencoder model. Adjust input directory as needed and set the specific_run arguments to 0 in both prediction_driver and normalize_demap_driver
